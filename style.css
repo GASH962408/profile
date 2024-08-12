@@ -73,7 +73,7 @@ a:hover {
   }
 }
 
-/* VIDEO DE GOOGLE */
+/* VIDEO DE GOOGLE :D */
 .video-background {
   position: fixed;
   top: 0;
@@ -106,10 +106,10 @@ a:hover {
   color: white;
 }
 
-/* Estilo Pulse */
+/* Estilo Pulse investigado :D*/
 .pulse {
-  --color: #62a8d7;  /* Color principal del botón */
-  --hover: #ef8f6e;  /* Color utilizado en la animación del pulso */
+  --color: #62a8d7;
+  --hover: #ef8f6e;
 }
 
 .pulse:hover,
@@ -134,6 +134,6 @@ a:hover {
 
 .giphy-img {
   max-width: 30%;
-  height: auto; /* Mantendrá la proporción de altura automáticamente */
-  border-radius: 10px; /* Añadir un borde redondeado si se desea */
+  height: auto; /* Proporción altura*/
+  border-radius: 10px; /*Borde al gif :D */
 }
