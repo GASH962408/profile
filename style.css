@@ -130,3 +130,10 @@ a:hover {
     box-shadow: 0 0 0 0 var(--hover);
   }
 }
+
+
+.giphy-img {
+  max-width: 30%;
+  height: auto; /* Mantendrá la proporción de altura automáticamente */
+  border-radius: 10px; /* Añadir un borde redondeado si se desea */
+}
